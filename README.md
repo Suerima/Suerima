@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone, I'm Suerima, a Data Engineer. I'm passionate about building and optimizing data pipelines, from data collection and storage to transformation and delivery for analytics and reporting purposes. I'm always looking for new challenges to apply my knowledge and skills to solve real-world data problems. 
+Hi, I'm Suerima, a Data Engineer. I'm passionate about building and optimizing data pipelines, from data collection and storage to transformation and delivery for analytics and reporting purposes. I'm always looking for new challenges to apply my knowledge and skills to solve real-world data problems. 
 
 
 # 💻 Tech Stack:
